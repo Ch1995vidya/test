@@ -1,0 +1,40 @@
+2020-12-13 10:37:18,110 INFO  [Log] Application opened 
+2020-12-13 10:37:20,269 INFO  [Log] Login completed 
+2020-12-13 10:37:20,387 INFO  [Log] Logout completed 
+2020-12-13 10:37:20,502 INFO  [Log] Application closed 
+2020-12-13 10:37:55,736 INFO  [Log] Application opened 
+2020-12-13 10:37:57,914 INFO  [Log] Login completed 
+2020-12-13 10:37:57,915 INFO  [Log] Adding new emp 
+2020-12-13 10:37:57,915 INFO  [Log] Delete an emp 
+2020-12-13 10:37:58,029 INFO  [Log] Logout completed 
+2020-12-13 10:37:58,128 INFO  [Log] Application closed 
+2020-12-13 10:41:28,109 INFO  [Log] Application opened 
+2020-12-13 10:41:30,362 INFO  [Log] Login completed 
+2020-12-13 10:41:30,362 INFO  [Log] Adding new emp 
+2020-12-13 10:41:30,363 INFO  [Log] Delete an emp 
+2020-12-13 10:41:30,491 INFO  [Log] Logout completed 
+2020-12-13 10:41:30,619 INFO  [Log] Application closed 
+2020-12-13 10:41:34,459 INFO  [Log] Application opened 
+2020-12-13 10:41:36,808 INFO  [Log] Login completed 
+2020-12-13 10:41:36,930 INFO  [Log] Logout completed 
+2020-12-13 10:41:37,068 INFO  [Log] Application closed 
+2020-12-13 17:12:20,490 INFO  [Log] Application opened 
+2020-12-13 17:12:22,638 INFO  [Log] Login completed 
+2020-12-13 17:12:22,767 INFO  [Log] Logout completed 
+2020-12-13 17:12:22,877 INFO  [Log] Application closed 
+2020-12-13 17:12:26,802 INFO  [Log] Application opened 
+2020-12-13 17:12:29,095 INFO  [Log] Login completed 
+2020-12-13 17:12:29,096 INFO  [Log] Adding new emp 
+2020-12-13 17:12:29,096 INFO  [Log] Delete an emp 
+2020-12-13 17:12:29,216 INFO  [Log] Logout completed 
+2020-12-13 17:12:29,307 INFO  [Log] Application closed 
+2020-12-13 17:57:34,870 INFO  [Log] Application opened 
+2020-12-13 17:57:37,041 INFO  [Log] Login completed 
+2020-12-13 17:57:37,157 INFO  [Log] Logout completed 
+2020-12-13 17:57:37,263 INFO  [Log] Application closed 
+2020-12-13 17:57:41,218 INFO  [Log] Application opened 
+2020-12-13 17:57:43,328 INFO  [Log] Login completed 
+2020-12-13 17:57:43,329 INFO  [Log] Adding new emp 
+2020-12-13 17:57:43,330 INFO  [Log] Delete an emp 
+2020-12-13 17:57:43,444 INFO  [Log] Logout completed 
+2020-12-13 17:57:43,543 INFO  [Log] Application closed 
